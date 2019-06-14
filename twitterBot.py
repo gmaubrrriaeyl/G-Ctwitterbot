@@ -1,3 +1,5 @@
+
+
 ## Creating variables for authenticators
 """ Example
 auth = tweepy.OAuthHandler("CONSUMER_KEY", "CONSUMER_SECRET")
