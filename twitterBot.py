@@ -20,7 +20,7 @@ except:
 
 ## Test Tweet
 api.update_status("Test tweet from Tweepy Python")
-api.update_status("#90sBabyFollowTrain 1⃣ Follow me✔ 2⃣ I follow u 3. get rich bitches!!")
+api.update_status("#90sBabyFollowTrain 1⃣ Follow me✔ 2⃣ I follow u")
 
 
 ### Methods for user timelines
